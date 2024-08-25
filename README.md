@@ -48,8 +48,7 @@ I'm Bimala Wijekoon, a **Computer Engineering Undergrad** and a **Tech Enthusias
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BimalaWijekoon&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -57,4 +56,4 @@ I'm Bimala Wijekoon, a **Computer Engineering Undergrad** and a **Tech Enthusias
 ---
 [![](https://visitcount.itsvg.in/api?id=BimalaWijekoon&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
