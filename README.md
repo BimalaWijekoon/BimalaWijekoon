@@ -1,6 +1,39 @@
-# 💫 About Me:
-<br><br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&width=700&lines=Hi+there%2C+welcome+to+my+GitHub+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
-<br><br>---<br><br><br>I'm Bimala Wijekoon, a **Computer Engineering Undergrad** and a **Tech Enthusiast** with a passion for creating innovative projects. My interests span across **Arduino**, **Web Development**, **React**, and **JavaScript**.<br><br><br>---<br><br>### 🔭 I’m currently working on:<br>- Building exciting projects with **React** and **JavaScript**<br>- Exploring the world of **Arduino** to create interactive hardware-software integrations<br><br>### 🌱 I’m currently learning:<br>- Advanced **React** concepts and best practices<br>- Diving deeper into **JavaScript** and modern web development frameworks<br><br>### 👯 I’m looking to collaborate on:<br>- Open-source projects related to **Web Development** or **Arduino**<br>- Innovative ideas that push the boundaries of technology<br><br>### 🤔 I’m looking for help with:<br>- Enhancing my skills in **backend development**<br>- Learning more about **cloud computing** and **DevOps**<br><br>### 💬 Ask me about:<br>- **Web Development**, **React**, **JavaScript**, and **Arduino**<br>- My journey in **Computer Engineering**<br><br>### 📫 How to reach me:<br>- [LinkedIn](https://www.linkedin.com/in/bimala-wijekoon-4169a6265/)<br>- [Facebook](https://www.facebook.com/profile.php?id=100070204024388)<br>- [Twitter](https://twitter.com/BimalaWijekoon)<br><br>### 😄 Pronouns:<br>- He/Him<br><br>### ⚡ Fun fact:<br>- I love tinkering with electronics and have built a few robots with **Arduino**!<br><br>---
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&width=700&lines=Hi+there%2C+welcome+to+my+GitHub+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+---
+
+I'm Bimala Wijekoon, a **Computer Engineering Undergrad** and a **Tech Enthusiast** with a passion for creating innovative projects. My interests span across **Arduino**, **Web Development**, **React**, and **JavaScript**.
+
+---
+
+### 🔭 I’m currently working on:
+- Building exciting projects with **React** and **JavaScript**
+- Exploring the world of **Arduino** to create interactive hardware-software integrations
+
+### 🌱 I’m currently learning:
+- Advanced **React** concepts and best practices
+- Diving deeper into **JavaScript** and modern web development frameworks
+
+### 👯 I’m looking to collaborate on:
+- Open-source projects related to **Web Development** or **Arduino**
+- Innovative ideas that push the boundaries of technology
+
+### 🤔 I’m looking for help with:
+- Enhancing my skills in **backend development**
+- Learning more about **cloud computing** and **DevOps**
+
+### 💬 Ask me about:
+- **Web Development**, **React**, **JavaScript**, and **Arduino**
+- My journey in **Computer Engineering**
+
+### 📫 How to reach me:
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100070204024388)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimala-wijekoon-4169a6265/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/BimalaWijekoon)
+
+---
 
 
 
