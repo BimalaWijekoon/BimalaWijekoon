@@ -165,11 +165,7 @@ const bimala = {
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BimalaWijekoon">
-    <img src="https://streak-stats.demolab.com/?user=BimalaWijekoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-  </a>
-</p>
+
 
 <!-- Activity Graph -->
 <p align="center">
@@ -178,7 +174,20 @@ const bimala = {
   </a>
 </p>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Achievements Section -->
+<h2>
+  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="25px"> 
+  Achievements
+</h2>
+
+<p align="center">
+  <a href="https://github.com/BimalaWijekoon">
+    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
