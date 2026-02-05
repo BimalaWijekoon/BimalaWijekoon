@@ -179,7 +179,7 @@ const bimala = {
 
 <!-- Achievements Section -->
 <h2>
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="25px"> 
+  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="25px">
   Achievements
 </h2>
 
