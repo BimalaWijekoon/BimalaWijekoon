@@ -4,7 +4,7 @@
 <!-- Animated Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;Building+the+Future+with+Code+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;Building+Intelligent+Solutions+with+Code+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,8 +28,8 @@
 ```javascript
 const bimala = {
     pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Arduino", "React"],
+    code: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+    askMeAbout: ["AI/ML", "LangChain", "Web Dev", "Arduino", "Computer Vision"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular", "Redux"],
@@ -37,13 +37,14 @@ const bimala = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Flask", "Django"]
+            python: ["Flask", "FastAPI", "LangChain"]
         },
+        ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "Jupyter"],
         databases: ["MongoDB", "MySQL"],
         cloud: ["AWS", "Azure", "Cloudflare"],
-        hardware: ["Arduino", "Raspberry Pi"]
+        hardware: ["Arduino", "Raspberry Pi", "NodeMCU"]
     },
-    currentFocus: "Building innovative full-stack applications",
+    currentFocus: "Building AI-powered applications with LangChain",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -60,16 +61,16 @@ const bimala = {
 </h2>
 
 <p align="left">
-  🔭 <b>Currently working on:</b> Exciting projects with <b>React</b> and <b>JavaScript</b>
+  🔭 <b>Currently working on:</b> AI/ML projects with <b>LangChain</b> and <b>Python</b>
 </p>
 <p align="left">
-  🌱 <b>Learning:</b> Advanced <b>React</b> patterns & <b>Cloud Architecture</b>
+  🌱 <b>Learning:</b> <b>Generative AI</b>, <b>Multi-Agent Systems</b> & <b>Deep Learning</b>
 </p>
 <p align="left">
-  👯 <b>Open to:</b> Collaborating on <b>Open Source</b> & <b>Innovative Projects</b>
+  👯 <b>Open to:</b> Collaborating on <b>Open Source</b> & <b>AI/ML Projects</b>
 </p>
 <p align="left">
-  🤔 <b>Exploring:</b> <b>Backend Development</b> & <b>DevOps</b>
+  🤔 <b>Exploring:</b> <b>Computer Vision</b> & <b>Natural Language Processing</b>
 </p>
 
 <!-- Animated Line -->
@@ -109,7 +110,18 @@ const bimala = {
 <summary><b>🖥️ Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css,r&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&perline=7" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 </details>
 
@@ -117,7 +129,7 @@ const bimala = {
 <summary><b>⚡ Frameworks & Libraries</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,redux,bootstrap,flutter,dotnet,vite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,redux,bootstrap,fastapi,vite&perline=8" />
 </p>
 </details>
 
