@@ -186,7 +186,7 @@ const bimala = {
 
 <p align="center">
   <a href="https://github.com/BimalaWijekoon">
-    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
   </a>
 </p>
 
