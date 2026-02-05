@@ -160,8 +160,8 @@ const bimala = {
 
 <p align="center">
   <a href="https://github.com/BimalaWijekoon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BimalaWijekoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimalaWijekoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BimalaWijekoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimalaWijekoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8"/>
   </a>
 </p>
 
@@ -186,7 +186,7 @@ const bimala = {
 
 <p align="center">
   <a href="https://github.com/BimalaWijekoon">
-    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
   </a>
 </p>
 
