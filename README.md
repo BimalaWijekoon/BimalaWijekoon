@@ -4,7 +4,7 @@
 <!-- Animated Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%F0%9F%9A%80;Computer+Engineering+Undergrad+%F0%9F%8E%93;Building+Intelligent+Solutions+with+Code+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=AI+%26+ML+Engineer+%7C+Python+Developer+%F0%9F%90%8D;IoT+%26+AIoT+Specialist+%F0%9F%A4%96%F0%9F%94%8C;Computer+Engineering+Undergrad+%F0%9F%8E%93;Building+Intelligent+IoT+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,28 +25,34 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-```javascript
-const bimala = {
-    pronouns: "He/Him",
-    code: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
-    askMeAbout: ["AI/ML", "LangChain", "Web Dev", "Arduino", "Computer Vision"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Angular", "Redux"],
-            css: ["Bootstrap", "Tailwind", "Material UI"]
+```python
+bimala = {
+    "pronouns": "He/Him",
+    "code": ["Python", "C++", "MicroPython"],
+    "askMeAbout": ["AI/ML", "Deep Learning", "Computer Vision", "NLP", "IoT", "AIoT"],
+    "specializations": {
+        "ai_ml": {
+            "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
+            "nlp": ["LangChain", "Hugging Face", "NLTK", "spaCy"],
+            "cv": ["OpenCV", "YOLO", "MediaPipe"],
+            "tools": ["Jupyter", "Pandas", "NumPy", "Matplotlib"]
         },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "FastAPI", "LangChain"]
+        "iot_aiot": {
+            "hardware": ["Arduino", "Raspberry Pi", "ESP32", "NodeMCU"],
+            "protocols": ["MQTT", "HTTP", "WebSocket", "CoAP"],
+            "platforms": ["ThingSpeak", "Blynk", "AWS IoT", "Azure IoT"]
         },
-        ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "Jupyter"],
-        databases: ["MongoDB", "MySQL"],
-        cloud: ["AWS", "Azure", "Cloudflare"],
-        hardware: ["Arduino", "Raspberry Pi", "NodeMCU"]
+        "python": {
+            "backend": ["FastAPI", "Flask", "Django"],
+            "async": ["asyncio", "aiohttp"],
+            "data": ["Pandas", "NumPy", "SciPy"]
+        },
+        "databases": ["MongoDB", "MySQL", "PostgreSQL", "InfluxDB"],
+        "cloud": ["AWS", "Azure", "Google Cloud"]
     },
-    currentFocus: "Building AI-powered applications with LangChain",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+    "currentFocus": "Building AI-powered IoT solutions with edge computing",
+    "funFact": "I believe AI + IoT = Infinite Possibilities! 🚀"
+}
 ```
 
 <br clear="both">
@@ -61,16 +67,82 @@ const bimala = {
 </h2>
 
 <p align="left">
-  🔭 <b>Currently working on:</b> AI/ML projects with <b>LangChain</b> and <b>Python</b>
+  🔭 <b>Currently working on:</b> AI-powered <b>IoT & AIoT</b> solutions with <b>Python</b>
 </p>
 <p align="left">
-  🌱 <b>Learning:</b> <b>Generative AI</b>, <b>Multi-Agent Systems</b> & <b>Deep Learning</b>
+  🌱 <b>Learning:</b> <b>Edge AI</b>, <b>TinyML</b> & <b>Advanced Computer Vision</b>
 </p>
 <p align="left">
-  👯 <b>Open to:</b> Collaborating on <b>Open Source</b> & <b>AI/ML Projects</b>
+  👯 <b>Open to:</b> Collaborating on <b>AI/ML</b>, <b>IoT</b> & <b>AIoT Projects</b>
 </p>
 <p align="left">
-  🤔 <b>Exploring:</b> <b>Computer Vision</b> & <b>Natural Language Processing</b>
+  🤔 <b>Exploring:</b> <b>Autonomous Systems</b>, <b>Predictive Maintenance</b> & <b>Smart Automation</b>
+</p>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Areas of Expertise Section -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
+  Areas of Expertise
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
+- **Computer Vision**: Object Detection, Image Classification, Segmentation
+- **Natural Language Processing**: Text Analysis, Sentiment Analysis, LLMs
+- **Model Deployment**: Edge AI, TensorFlow Lite, ONNX
+- **Generative AI**: LangChain, OpenAI, Hugging Face
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 IoT & AIoT
+- **Smart Sensors**: Temperature, Humidity, Motion, Environmental
+- **Edge Computing**: On-device AI, Real-time Processing
+- **Communication Protocols**: MQTT, HTTP, WebSocket, Bluetooth
+- **IoT Platforms**: AWS IoT, Azure IoT, ThingSpeak
+- **Automation**: Smart Home, Industrial IoT, Predictive Maintenance
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30px"> 
+  Project Focus Areas
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_AI_Powered_IoT-Intelligent_Devices-blue?style=for-the-badge" alt="AI-IoT"/>
+  <img src="https://img.shields.io/badge/📷_Computer_Vision-Real--time_Detection-green?style=for-the-badge" alt="CV"/>
+  <img src="https://img.shields.io/badge/🏠_Smart_Automation-Home_%26_Industrial-orange?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/📊_Predictive_Analytics-ML_Models-red?style=for-the-badge" alt="Analytics"/>
+</p>
+
+<p align="left">
+  💡 <b>AI-Powered IoT Solutions:</b> Building intelligent devices with edge AI capabilities
+</p>
+<p align="left">
+  🎯 <b>Computer Vision Applications:</b> Real-time object detection and image analysis
+</p>
+<p align="left">
+  🏭 <b>Smart Automation:</b> IoT-based monitoring and control systems
+</p>
+<p align="left">
+  📈 <b>Predictive Maintenance:</b> ML models for equipment health monitoring
+</p>
+<p align="left">
+  🌐 <b>Edge AI:</b> Deploying AI models on resource-constrained devices
 </p>
 
 <!-- Animated Line -->
@@ -107,29 +179,59 @@ const bimala = {
 </h2>
 
 <details open>
-<summary><b>🖥️ Languages</b></summary>
+<summary><b>🖥️ Programming Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp&perline=7" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>🤖 AI/ML & Deep Learning</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 </details>
 
 <details open>
-<summary><b>⚡ Frameworks & Libraries</b></summary>
+<summary><b>📊 Data Science & Analysis</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,redux,bootstrap,fastapi,vite&perline=8" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔌 IoT & AIoT</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/ThingSpeak-DD0031?style=for-the-badge&logo=thingspeak&logoColor=white" alt="ThingSpeak"/>
+  <img src="https://img.shields.io/badge/Blynk-04C3FF?style=for-the-badge&logo=blynk&logoColor=white" alt="Blynk"/>
+  <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IoT"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🐍 Python Frameworks & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=8" />
+  <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio"/>
 </p>
 </details>
 
@@ -137,15 +239,16 @@ const bimala = {
 <summary><b>☁️ Cloud & Databases</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,mongodb,mysql,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,mysql,postgres,githubactions&perline=7" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Hardware</b></summary>
+<summary><b>🛠️ Development Tools</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,blender,arduino,raspberrypi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&perline=8" />
 </p>
 </details>
 
