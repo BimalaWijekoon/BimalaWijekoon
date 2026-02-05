@@ -178,17 +178,7 @@ const bimala = {
   </a>
 </p>
 
-<!-- Trophies Section -->
-<h2>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25px"> 
-  GitHub Trophies
-</h2>
 
-<p align="center">
-  <a href="https://github.com/BimalaWijekoon">
-    <img src="https://github-profile-trophy.vercel.app/?username=BimalaWijekoon&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
