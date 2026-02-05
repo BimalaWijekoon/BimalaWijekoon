@@ -167,7 +167,7 @@ const bimala = {
 
 <p align="center">
   <a href="https://github.com/BimalaWijekoon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BimalaWijekoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=BimalaWijekoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
   </a>
 </p>
 
