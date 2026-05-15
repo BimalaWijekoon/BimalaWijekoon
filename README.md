@@ -4,7 +4,7 @@
 <!-- Animated Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=AI+%26+ML+Engineer+%7C+Python+Developer+%F0%9F%90%8D;IoT+%26+AIoT+Specialist+%F0%9F%A4%96%F0%9F%94%8C;Computer+Engineering+Undergrad+%F0%9F%8E%93;Building+Intelligent+IoT+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=AI+%26+ML+Engineer+%7C+RLHF+%26+LLM+Builder+%F0%9F%A7%A0;IoT+%26+AIoT+Specialist+%F0%9F%A4%96%F0%9F%94%8C;Full+Stack+Developer+%7C+Computer+Engineering+%F0%9F%8E%93;Building+Intelligent+Systems+from+Edge+to+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ profile = {
         "databases": ["MongoDB", "MySQL", "PostgreSQL", "InfluxDB"],
         "cloud": ["AWS", "Azure", "Google Cloud"]
     },
-    "currentFocus": "Building AI-powered IoT solutions with edge computing",
+    "currentFocus": "End-to-end RLHF pipeline — SFT, Reward Model, GRPO + LLM fine-tuning",
     "funFact": "I believe AI + IoT = Infinite Possibilities! 🚀"
 }
 ```
@@ -68,16 +68,16 @@ profile = {
 </h2>
 
 <p align="left">
-  🔭 <b>Currently working on:</b> AI-powered <b>IoT & AIoT</b> solutions with <b>Python</b>
+  🔭 <b>Currently working on:</b> End-to-end <b>RLHF Pipeline</b> — SFT, Reward Modelling, GRPO with <b>FastAPI + Comparison UI</b>
 </p>
 <p align="left">
-  🌱 <b>Learning:</b> <b>Edge AI</b>, <b>TinyML</b> & <b>Advanced Computer Vision</b>
+  🌱 <b>Learning:</b> <b>LLM Fine-tuning</b>, <b>RLHF/GRPO</b>, <b>TinyML</b> & <b>Edge AI</b>
 </p>
 <p align="left">
-  👯 <b>Open to:</b> Collaborating on <b>AI/ML</b>, <b>IoT</b> & <b>AIoT Projects</b>
+  👯 <b>Open to:</b> Collaborating on <b>AI/ML</b>, <b>LLMs</b>, <b>IoT</b> & <b>Full Stack AI Projects</b>
 </p>
 <p align="left">
-  🤔 <b>Exploring:</b> <b>Autonomous Systems</b>, <b>Predictive Maintenance</b> & <b>Smart Automation</b>
+  🤔 <b>Exploring:</b> <b>Autonomous Systems</b>, <b>EV Intelligence</b> & <b>Multi-Agent AI</b>
 </p>
 
 <!-- Animated Line -->
@@ -120,31 +120,73 @@ profile = {
 <!-- Featured Projects Section -->
 <h2>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30px"> 
-  Project Focus Areas
+  🚀 Featured Projects
 </h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_AI_Powered_IoT-Intelligent_Devices-blue?style=for-the-badge" alt="AI-IoT"/>
-  <img src="https://img.shields.io/badge/📷_Computer_Vision-Real--time_Detection-green?style=for-the-badge" alt="CV"/>
-  <img src="https://img.shields.io/badge/🏠_Smart_Automation-Home_%26_Industrial-orange?style=for-the-badge" alt="Automation"/>
-  <img src="https://img.shields.io/badge/📊_Predictive_Analytics-ML_Models-red?style=for-the-badge" alt="Analytics"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  💡 <b>AI-Powered IoT Solutions:</b> Building intelligent devices with edge AI capabilities
-</p>
-<p align="left">
-  🎯 <b>Computer Vision Applications:</b> Real-time object detection and image analysis
-</p>
-<p align="left">
-  🏭 <b>Smart Automation:</b> IoT-based monitoring and control systems
-</p>
-<p align="left">
-  📈 <b>Predictive Maintenance:</b> ML models for equipment health monitoring
-</p>
-<p align="left">
-  🌐 <b>Edge AI:</b> Deploying AI models on resource-constrained devices
-</p>
+### 🧠 [RLHF Mini Pipeline](https://github.com/BimalaWijekoon/rlhf-mini-pipeline)
+> End-to-end RLHF pipeline — SFT, Reward Model, GRPO + FastAPI + comparison UI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [EV Battery Management System](https://github.com/BimalaWijekoon/Ev-BMS-System)
+> ML-based battery health monitoring, charging prediction & thermal anomaly detection
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=lightgbm&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 [Deep Cleanse](https://github.com/BimalaWijekoon/Deep_Cleanse)
+> AI-powered noise reduction for images & audio using Autoencoder deep learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Multi-Agent Book Store](https://github.com/BimalaWijekoon/Multi-Agent-Book-Store)
+> Multi-agent AI system for intelligent recommendations using LangChain
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📷 [FaceNRoll](https://github.com/BimalaWijekoon/FaceNRoll)
+> Smart face recognition attendance system — accurate, seamless & real-time
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Smart Robot Car](https://github.com/BimalaWijekoon/Smart-Robot-Car-Using-Arduino-And-NodeMCU)
+> Autonomous robot car with obstacle avoidance using Arduino & NodeMCU
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
