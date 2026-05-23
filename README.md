@@ -4,7 +4,7 @@
 <!-- Animated Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=AI+%26+ML+Engineer+%7C+RLHF+%26+LLM+Builder+%F0%9F%A7%A0;IoT+%26+AIoT+Specialist+%F0%9F%A4%96%F0%9F%94%8C;Full+Stack+Developer+%7C+Computer+Engineering+%F0%9F%8E%93;Building+Intelligent+Systems+from+Edge+to+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=AI+%26+ML+Engineer+%7C+RLHF+%26+LLM+Builder+%F0%9F%A7%A0;IoT+%26+AIoT+Specialist+%F0%9F%A4%96%F0%9F%94%8C;Full+Stack+Developer+%7C+Computer+Engineering+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
